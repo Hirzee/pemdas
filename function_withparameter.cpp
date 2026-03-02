@@ -27,3 +27,8 @@ void output()
     cout << "Keliling persegi: " << kelilingpersegi(panjang, lebar) << endl;
 }
 
+int main()
+{
+    input();
+    output();
+}
